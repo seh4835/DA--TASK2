@@ -1,0 +1,39 @@
+Test Case 1:
+Name: Priya
+Marks: 85
+Expected Grade: B
+Expected Message: Very Good! Keep it up!
+
+Test Case 2:
+Name: Rahul
+Marks: 92
+Expected Grade: A
+Expected Message: Excellent work! Keep shining!
+
+Test Case 3:
+Name: Anjali
+Marks: 75
+Expected Grade: C
+Expected Message: Good effort! You can do even better!
+
+Test Case 4:
+Name: Rohan
+Marks: 65
+Expected Grade: D
+Expected Message: You passed! Work harder next time!
+
+Test Case 5:
+Name: Meera
+Marks: 45
+Expected Grade: F
+Expected Message: Don't give up! Try again with more practice!
+
+Test Case 6:
+Name: Test
+Marks: -5
+Expected: Ask again (invalid input)
+
+Test Case 7:
+Name: Test
+Marks: 150
+Expected: Ask again (invalid input)
